@@ -6,12 +6,12 @@ article {
     display: flex;
     align-items: center;
     flex-direction: column;
-    background-color: rgba(65, 202, 151, 0.2);
+    background-image: url(https://logincdn.msftauth.net/shared/5/images/49_7916a894ebde7d29c2cc.jpg);
 }
 
 .caja {
     padding:2px;
-    margin-top: 64px;
+    margin-top: 171px;
     border: 1px solid #bcbcbc;
     box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 6px;
     background-color:hsl(0, 0%, 100%);
@@ -19,7 +19,8 @@ article {
     height: 212px;
     padding-right: 15px;
     padding-left:15px;
-    padding-top: 15px;
+    padding-top: 35px;
+    padding-bottom: 44px;
 
 }
 
@@ -47,7 +48,7 @@ border-top-right-radius: 0px;
 
 padding:10px;
 width: 317px;
-padding-left: ;
+
 
 }
 
@@ -56,6 +57,7 @@ display:flex;
     justify-content: flex-start;
     flex-direction: column;
 padding: 1px;
+margin: 0px 25px 25px 25px;
 }
 
 .tex1{
@@ -69,7 +71,7 @@ padding-bottom: 1px;
 .text2{
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 font-size: 77%;
-padding:0;
+padding-bottom: 22px;
 color:rgb(53, 52, 52);
 }
 
@@ -86,8 +88,8 @@ align-items: flex-end;
 background-color:rgb(0, 103, 184);
 width: 76px;
 color:#ffffff;
-padding-right:15px;
-
+padding-right:11px;
+border:0.5px;
 }
 
 .cuenta{
@@ -109,4 +111,26 @@ justify-content: end;
 
 .cajafinal{
 
+
+    margin-top: 10px;
+    border:  1 px solid #bcbcbc;
+    background-color: #ffffff;  
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 6px;
+    
+    width: 405px;
+    height: 45px;
 }
+
+.cajafinal1{
+display:flex;
+justify-content: flex-star;
+align-items: center;
+
+}
+
+.imagen2{
+padding-right: 5px;
+padding-left: 45px;
+}
+
+
