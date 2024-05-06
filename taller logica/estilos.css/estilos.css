@@ -1,0 +1,20 @@
+.titulo {
+        text-align: center;
+        margin-bottom: 30px;
+}
+
+.subtitulo {
+        text-align: center;
+        font-family: 'Times New Roman', Times, serif; 
+        color:blue;
+        font-size: x-large;
+        margin-bottom: 60px;
+}
+
+i:hover{
+background-color: bisque;
+}
+
+.underline{
+text-decoration: none;
+}
